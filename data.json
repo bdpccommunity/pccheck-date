@@ -31,6 +31,22 @@
       "post": "https://discord.com/channels/1306698066622943383/1448983123931955292/1508141763720904705",
       "notes": "Found: sam cheat free exe panel",
       "timeline": []
+    },
+    {
+      "id": "1779729439237",
+      "name": "tamjiddied",
+      "discord_id": "1005129707269931099",
+      "processor_id": "178BFBFF00A60F12",
+      "discord_name": "tamjidxxx",
+      "check_date": "2026-05-25",
+      "status": "banned",
+      "ban_date": "2026-05-25",
+      "unban_date": "2026-09-25",
+      "punishment": "4 months ban",
+      "video": "",
+      "post": "https://discord.com/channels/1306698066622943383/1448983123931955292/1508517927182401678",
+      "notes": "Found:  Event log manipulation. Svchost.exe (2876) & ShellHost.exe is not a system32 exe but ShellHost.exe exist in system32 & fake time 1989 in ShellHost.exe",
+      "timeline": []
     }
   ]
 }
