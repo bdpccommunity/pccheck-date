@@ -1,1 +1,20 @@
-{"records":[]}
+{
+  "records": [
+    {
+      "id": "1779720687005",
+      "name": "test",
+      "discord_id": "0000",
+      "processor_id": "0000",
+      "discord_name": "000",
+      "check_date": "2026-05-25",
+      "status": "banned",
+      "ban_date": "2026-05-25",
+      "unban_date": "2026-05-26",
+      "punishment": "none",
+      "video": "",
+      "post": "",
+      "notes": "its a testing record",
+      "timeline": []
+    }
+  ]
+}
