@@ -1,28 +1,6 @@
 {
   "records": [
     {
-      "id": "1779720687005",
-      "name": "test",
-      "discord_id": "0000",
-      "processor_id": "0000",
-      "discord_name": "000",
-      "check_date": "2026-05-25",
-      "status": "unbanned",
-      "ban_date": "2026-05-25",
-      "unban_date": "2026-05-26",
-      "punishment": "none",
-      "video": "",
-      "post": "",
-      "notes": "its a testing record",
-      "timeline": [
-        {
-          "date": "2026-05-26",
-          "event": "Auto-Unbanned by system",
-          "type": "green"
-        }
-      ]
-    },
-    {
       "id": "1779720898033",
       "name": "Parvez",
       "discord_id": "1327994809662574634",
