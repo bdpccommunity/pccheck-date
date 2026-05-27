@@ -79,6 +79,22 @@
       "post": "",
       "notes": "It's a automation testing record",
       "timeline": []
+    },
+    {
+      "id": "1779874914417",
+      "name": "Omkar",
+      "discord_id": "724163536019783710",
+      "processor_id": "empty",
+      "discord_name": "oamkr",
+      "check_date": "2026-01-28",
+      "status": "banned",
+      "ban_date": "2026-01-28",
+      "unban_date": "2026-05-28",
+      "punishment": "4 months ban",
+      "video": "",
+      "post": "https://discord.com/channels/1306698066622943383/1448983123931955292/1466066459011580108",
+      "notes": "Proof :   Manual Mapping Found In Explorer.exe & And after restarting Explorer, he can't play the game",
+      "timeline": []
     }
   ]
 }
