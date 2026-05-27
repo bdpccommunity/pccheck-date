@@ -303,6 +303,22 @@
       "post": "https://discord.com/channels/1306698066622943383/1448983123931955292/1472643258810241036",
       "notes": "Found : steam_api64.dll Detects viruses and inject HD-Player",
       "timeline": []
+    },
+    {
+      "id": "1779876894502",
+      "name": "Zox",
+      "discord_id": "1221145416578371656",
+      "processor_id": "empty",
+      "discord_name": "synthix2251",
+      "check_date": "2026-02-16",
+      "status": "banned",
+      "ban_date": "2026-02-16",
+      "unban_date": "2026-06-16",
+      "punishment": "4 months ban",
+      "video": "",
+      "post": "https://discord.com/channels/1306698066622943383/1448983123931955292/1472963833298686054",
+      "notes": "qmgr.dll not signed in virus total & Powershall  + everything he has. Powershall has everything. Username + everything he has on his panel.",
+      "timeline": []
     }
   ]
 }
