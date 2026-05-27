@@ -351,6 +351,22 @@
       "post": "https://discord.com/channels/1306698066622943383/1448983123931955292/1473689348254728253",
       "notes": "Found : event viewer logs clean event id ( 104 ) & HD-Player 1 detection in virustotal & download/setup(1).exe deleted",
       "timeline": []
+    },
+    {
+      "id": "1779877234820",
+      "name": "AIMFOV",
+      "discord_id": "1329453545967190098",
+      "processor_id": "empty",
+      "discord_name": "ravithedestroyer",
+      "check_date": "2026-02-19",
+      "status": "banned",
+      "ban_date": "2026-02-19",
+      "unban_date": "2026-06-19",
+      "punishment": "4 months ban",
+      "video": "https://www.youtube.com/live/CBcdXP1adK4?si=cG6DeWmXTivkmFDj",
+      "post": "https://discord.com/channels/1306698066622943383/1448983123931955292/1474080398341312522",
+      "notes": "Found : PowerShell Logs Clean Event ID  104",
+      "timeline": []
     }
   ]
 }
