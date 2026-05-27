@@ -271,6 +271,22 @@
       "post": "https://discord.com/channels/1306698066622943383/1448983123931955292/1472263656497479773",
       "notes": "Found : NO RECOIL.EXE & he clear everything",
       "timeline": []
+    },
+    {
+      "id": "1779876581767",
+      "name": "kYro",
+      "discord_id": "1426548695452618773",
+      "processor_id": "empty",
+      "discord_name": "drunken_kyro",
+      "check_date": "2026-02-15",
+      "status": "banned",
+      "ban_date": "2026-02-15",
+      "unban_date": "2026-06-15",
+      "punishment": "4 months ban",
+      "video": "",
+      "post": "https://discord.com/channels/1306698066622943383/1448983123931955292/1472523213257838746",
+      "notes": "Found : : Detects viruses in Windows files and running as background Process name : svchost.exe \nsvchost.exe = 69 detection in virustotal",
+      "timeline": []
     }
   ]
 }
