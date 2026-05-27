@@ -367,6 +367,22 @@
       "post": "https://discord.com/channels/1306698066622943383/1448983123931955292/1474080398341312522",
       "notes": "Found : PowerShell Logs Clean Event ID  104",
       "timeline": []
+    },
+    {
+      "id": "1779905011678",
+      "name": "Who I am",
+      "discord_id": "1257968188025737251",
+      "processor_id": "empty",
+      "discord_name": "who_1299",
+      "check_date": "2026-05-27",
+      "status": "banned",
+      "ban_date": "2026-05-27",
+      "unban_date": "2026-06-27",
+      "punishment": "4 months ban",
+      "video": "https://www.youtube.com/live/TWEY8EIBd1c?si=bhGIaKDvL6KqhKVo",
+      "post": "",
+      "notes": "Found: libssl-3-x64.dll virus total detection 3. trojan detected. It is not a legitimate OpenSSL.",
+      "timeline": []
     }
   ]
 }
