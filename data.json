@@ -335,6 +335,22 @@
       "post": "https://discord.com/channels/1306698066622943383/1448983123931955292/1473658782121853036",
       "notes": "Found : omadmapi.dll injected in explorer.exe , 23 detection in virustotal",
       "timeline": []
+    },
+    {
+      "id": "1779877142329",
+      "name": "NL Eren",
+      "discord_id": "1325544680640872580",
+      "processor_id": "empty",
+      "discord_name": "mridulsikder",
+      "check_date": "2026-02-18",
+      "status": "banned",
+      "ban_date": "2026-02-18",
+      "unban_date": "2026-06-18",
+      "punishment": "4 months ban",
+      "video": "https://www.youtube.com/live/urb1zGQcFhU?si=QCfrhUAjvzNa9Ws8",
+      "post": "https://discord.com/channels/1306698066622943383/1448983123931955292/1473689348254728253",
+      "notes": "Found : event viewer logs clean event id ( 104 ) & HD-Player 1 detection in virustotal & download/setup(1).exe deleted",
+      "timeline": []
     }
   ]
 }
