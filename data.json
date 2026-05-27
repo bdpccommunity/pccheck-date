@@ -71,14 +71,20 @@
       "processor_id": "00000",
       "discord_name": "0000",
       "check_date": "",
-      "status": "banned",
+      "status": "unbanned",
       "ban_date": "2026-05-27",
       "unban_date": "2026-05-28",
       "punishment": "",
       "video": "",
       "post": "",
       "notes": "It's a automation testing record",
-      "timeline": []
+      "timeline": [
+        {
+          "date": "2026-05-28",
+          "event": "Auto-Unbanned by system",
+          "type": "green"
+        }
+      ]
     },
     {
       "id": "1779874914417",
@@ -87,14 +93,20 @@
       "processor_id": "empty",
       "discord_name": "oamkr",
       "check_date": "2026-01-28",
-      "status": "banned",
+      "status": "unbanned",
       "ban_date": "2026-01-28",
       "unban_date": "2026-05-28",
       "punishment": "4 months ban",
       "video": "",
       "post": "https://discord.com/channels/1306698066622943383/1448983123931955292/1466066459011580108",
       "notes": "Proof :   Manual Mapping Found In Explorer.exe & And after restarting Explorer, he can't play the game",
-      "timeline": []
+      "timeline": [
+        {
+          "date": "2026-05-28",
+          "event": "Auto-Unbanned by system",
+          "type": "green"
+        }
+      ]
     },
     {
       "id": "1779875093471",
