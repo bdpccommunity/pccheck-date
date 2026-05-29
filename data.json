@@ -491,6 +491,22 @@
       "post": "https://discord.com/channels/1306698066622943383/1448983123931955292/1476292866333479064",
       "notes": "Found : Event ID 104 Powershell Logs Cleaned [This Mother Father challenged me to Find Matrix",
       "timeline": []
+    },
+    {
+      "id": "1780070228906",
+      "name": "Frenx",
+      "discord_id": "1186407542679687319",
+      "processor_id": "empty",
+      "discord_name": "frenx_edition",
+      "check_date": "2026-02-27",
+      "status": "banned",
+      "ban_date": "2026-02-27",
+      "unban_date": "2026-06-27",
+      "punishment": "4 months ban",
+      "video": "",
+      "post": "https://discord.com/channels/1306698066622943383/1448983123931955292/1476675240179273790",
+      "notes": "FOUND : NEW BYPASS.EXE",
+      "timeline": []
     }
   ]
 }
