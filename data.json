@@ -571,6 +571,22 @@
       "post": "https://discord.com/channels/1306698066622943383/1448983123931955292/1478367531050995854",
       "notes": "Found : A Dll Which is 0 detection but totally unsigned and suspecious even don't have detail \nHe runned a suspecious loader from e drive but e drive remove \nAnd a one more suspecious loader setup(1).exe from inetcache and inetcache folder deleted which is directly indecated attemt to bypass",
       "timeline": []
+    },
+    {
+      "id": "1780070883453",
+      "name": "R4ram live",
+      "discord_id": "916205374892290068",
+      "processor_id": "empty",
+      "discord_name": "raghav.ut",
+      "check_date": "2026-03-04",
+      "status": "banned",
+      "ban_date": "2026-03-04",
+      "unban_date": "2026-07-04",
+      "punishment": "4 months ban",
+      "video": "https://www.youtube.com/live/wW-U57eOQY0?si=CURz5VtAZnqvN264",
+      "post": "https://discord.com/channels/1306698066622943383/1448983123931955292/1478798899501203739",
+      "notes": "Found : PowerShell Logs Clean Event ID  104 & Event id : 5001 attend to disable windows defender",
+      "timeline": []
     }
   ]
 }
