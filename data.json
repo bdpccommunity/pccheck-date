@@ -459,6 +459,22 @@
       "post": "https://discord.com/channels/1306698066622943383/1448983123931955292/1475205560159965296",
       "notes": "Found : Runtimebroker.exe script logs than he shutdown his pc",
       "timeline": []
+    },
+    {
+      "id": "1780069982240",
+      "name": "DC Vignesh",
+      "discord_id": "1389989470626910400",
+      "processor_id": "empty",
+      "discord_name": "vigneshx17",
+      "check_date": "2026-02-23",
+      "status": "banned",
+      "ban_date": "2026-02-23",
+      "unban_date": "2026-06-23",
+      "punishment": "4 months ban",
+      "video": "",
+      "post": "https://discord.com/channels/1306698066622943383/1448983123931955292/1475232849383788775",
+      "notes": "Found : MultiLauncher.exe 3 % detection\nDaddy CALLING Guild Player",
+      "timeline": []
     }
   ]
 }
