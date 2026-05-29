@@ -603,6 +603,22 @@
       "post": "https://discord.com/channels/1306698066622943383/1448983123931955292/1479866221628489892",
       "notes": "Found : C:/windows/system32/RGNUPDT.EXE\nUnsigned Suspicious Deleted Loader",
       "timeline": []
+    },
+    {
+      "id": "1780071128351",
+      "name": "Boogey man",
+      "discord_id": "1383060844505731154",
+      "processor_id": "empty",
+      "discord_name": "darko_bk",
+      "check_date": "2026-03-11",
+      "status": "banned",
+      "ban_date": "2026-03-11",
+      "unban_date": "2026-07-11",
+      "punishment": "4 months ban",
+      "video": "https://www.youtube.com/live/5oDsiN0Tcx8?si=z1I6WevJIyY9SBlM",
+      "post": "https://discord.com/channels/1306698066622943383/1448983123931955292/1480988636991193108",
+      "notes": "Found : PowerShell Logs Clean Event ID  104 & full clean windows power shall logs",
+      "timeline": []
     }
   ]
 }
