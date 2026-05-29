@@ -587,6 +587,22 @@
       "post": "https://discord.com/channels/1306698066622943383/1448983123931955292/1478798899501203739",
       "notes": "Found : PowerShell Logs Clean Event ID  104 & Event id : 5001 attend to disable windows defender",
       "timeline": []
+    },
+    {
+      "id": "1780070977408",
+      "name": "Wish",
+      "discord_id": "809355971910434848",
+      "processor_id": "empty",
+      "discord_name": "itzwish.me",
+      "check_date": "2026-03-07",
+      "status": "banned",
+      "ban_date": "2026-03-07",
+      "unban_date": "2026-07-07",
+      "punishment": "4 months ban",
+      "video": "https://www.youtube.com/live/NwdzFbee-WQ?si=LCq_YRs4deYYUQVY",
+      "post": "https://discord.com/channels/1306698066622943383/1448983123931955292/1479866221628489892",
+      "notes": "Found : C:/windows/system32/RGNUPDT.EXE\nUnsigned Suspicious Deleted Loader",
+      "timeline": []
     }
   ]
 }
