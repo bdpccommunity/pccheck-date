@@ -395,6 +395,22 @@
       "post": "https://discord.com/channels/1306698066622943383/1448983123931955292/1509299694931673450",
       "notes": "Found: libssl-3-x64.dll virus total detection 3. trojan detected. It is not a legitimate OpenSSL.",
       "timeline": []
+    },
+    {
+      "id": "1780069618884",
+      "name": "HridoyAAA",
+      "discord_id": "1371234465682034790",
+      "processor_id": "empty",
+      "discord_name": "tanvirkh99",
+      "check_date": "2026-02-21",
+      "status": "banned",
+      "ban_date": "2026-02-21",
+      "unban_date": "2026-06-21",
+      "punishment": "4 months ban",
+      "video": "https://www.youtube.com/live/4spz7TIFXcc?si=afXROky4L0PUyVDm",
+      "post": "https://discord.com/channels/1306698066622943383/1448983123931955292/1474751445525073980",
+      "notes": "Found : PowerShell Logs Clean Event ID  104",
+      "timeline": []
     }
   ]
 }
