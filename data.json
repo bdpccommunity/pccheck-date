@@ -411,6 +411,22 @@
       "post": "https://discord.com/channels/1306698066622943383/1448983123931955292/1474751445525073980",
       "notes": "Found : PowerShell Logs Clean Event ID  104",
       "timeline": []
+    },
+    {
+      "id": "1780069727526",
+      "name": "ABRAR⸙",
+      "discord_id": "1132867102064267374",
+      "processor_id": "empty",
+      "discord_name": "1anonly_abrar",
+      "check_date": "2026-02-21",
+      "status": "banned",
+      "ban_date": "2026-02-21",
+      "unban_date": "2026-06-21",
+      "punishment": "4 months ban",
+      "video": "",
+      "post": "https://discord.com/channels/1306698066622943383/1448983123931955292/1474768365418451175",
+      "notes": "Found : Chams",
+      "timeline": []
     }
   ]
 }
