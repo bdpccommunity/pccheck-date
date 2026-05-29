@@ -507,6 +507,22 @@
       "post": "https://discord.com/channels/1306698066622943383/1448983123931955292/1476675240179273790",
       "notes": "FOUND : NEW BYPASS.EXE",
       "timeline": []
+    },
+    {
+      "id": "1780070379761",
+      "name": "Pandichandi",
+      "discord_id": "1304115150873301093",
+      "processor_id": "empty",
+      "discord_name": "xdev_30",
+      "check_date": "2026-02-27",
+      "status": "banned",
+      "ban_date": "2026-02-27",
+      "unban_date": "2026-06-27",
+      "punishment": "4 months ban",
+      "video": "",
+      "post": "https://discord.com/channels/1306698066622943383/1448983123931955292/1476722276027203846",
+      "notes": "Found : event id 104 during pc checking he restarted his own pc and cleared sysmon logs",
+      "timeline": []
     }
   ]
 }
