@@ -539,6 +539,22 @@
       "post": "https://discord.com/channels/1306698066622943383/1448983123931955292/1477378443896291470",
       "notes": "herz two Guild Banned From Bangladesh \nGuild Name : herz two\n\nDon't Play With Them\nRemove Them From All Types Of Our Bangladesh And India Tournament\nThey Disrepect Our Bangladesh Country + Tournamnet Host + Tournament Checker\n\nProof : They don’t want to give Ultra View because they’re afraid the opponent squad might gain an advantage.Where even the tournament host has said to provide Ultra View, and I myself (Fin) am the tournament checker.\n\nSuspecious Logs : event id 4104 base64shellcode than we said give your ultraview access fo analysis that logs",
       "timeline": []
+    },
+    {
+      "id": "1780070659818",
+      "name": "Rosemary",
+      "discord_id": "1143464012810551296",
+      "processor_id": "empty",
+      "discord_name": "spower_19",
+      "check_date": "2026-03-01",
+      "status": "banned",
+      "ban_date": "2026-03-01",
+      "unban_date": "2026-07-01",
+      "punishment": "4 months ban",
+      "video": "https://www.youtube.com/live/tChYcReJt-g?si=50H1Y26vH2zcfqtr",
+      "post": "https://discord.com/channels/1306698066622943383/1448983123931955292/1477410804700680312",
+      "notes": "Found : PowerShell Logs Clean Event ID  104 & Event id : 5001 attend to disable windows defender",
+      "timeline": []
     }
   ]
 }
