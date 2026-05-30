@@ -414,7 +414,7 @@
     },
     {
       "id": "1780069727526",
-      "name": "ABRARÃ¢Â¸Â",
+      "name": "ABRARÃÂ¢ÃÂ¸ÃÂ",
       "discord_id": "1132867102064267374",
       "processor_id": "empty",
       "discord_name": "1anonly_abrar",
@@ -537,7 +537,7 @@
       "punishment": "permanent ban",
       "video": "https://discord.com/channels/1306698066622943383/1448983123931955292/1477378443896291470",
       "post": "https://discord.com/channels/1306698066622943383/1448983123931955292/1477378443896291470",
-      "notes": "herz two Guild Banned From Bangladesh \nGuild Name : herz two\n\nDon't Play With Them\nRemove Them From All Types Of Our Bangladesh And India Tournament\nThey Disrepect Our Bangladesh Country + Tournamnet Host + Tournament Checker\n\nProof : They donÃ¢ÂÂt want to give Ultra View because theyÃ¢ÂÂre afraid the opponent squad might gain an advantage.Where even the tournament host has said to provide Ultra View, and I myself (Fin) am the tournament checker.\n\nSuspecious Logs : event id 4104 base64shellcode than we said give your ultraview access fo analysis that logs",
+      "notes": "herz two Guild Banned From Bangladesh \nGuild Name : herz two\n\nDon't Play With Them\nRemove Them From All Types Of Our Bangladesh And India Tournament\nThey Disrepect Our Bangladesh Country + Tournamnet Host + Tournament Checker\n\nProof : They donÃÂ¢ÃÂÃÂt want to give Ultra View because theyÃÂ¢ÃÂÃÂre afraid the opponent squad might gain an advantage.Where even the tournament host has said to provide Ultra View, and I myself (Fin) am the tournament checker.\n\nSuspecious Logs : event id 4104 base64shellcode than we said give your ultraview access fo analysis that logs",
       "timeline": []
     },
     {
@@ -634,6 +634,22 @@
       "video": "",
       "post": "https://discord.com/channels/1306698066622943383/1448983123931955292/1509958781629501562",
       "notes": "Found : ShellHost.exe is not a system32 exe but ShellHost.exe exist in system32 & creation 1989-03-24 in ShellHost.exe",
+      "timeline": []
+    },
+    {
+      "id": "1780144419058",
+      "name": "Hq",
+      "discord_id": "Beheb",
+      "processor_id": "Hq en",
+      "discord_name": "Nne",
+      "check_date": "",
+      "status": "pending",
+      "ban_date": "",
+      "unban_date": "",
+      "punishment": "",
+      "video": "",
+      "post": "",
+      "notes": "",
       "timeline": []
     }
   ]
