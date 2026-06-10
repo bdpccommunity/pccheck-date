@@ -739,6 +739,22 @@
       "post": "https://discord.com/channels/1306698066622943383/1448983123931955292/1514227502132891780",
       "notes": "Found: Internal Cheat & A Loader which have 32 detection & Event Id 104",
       "timeline": []
+    },
+    {
+      "id": "1781118147647",
+      "name": "This pc",
+      "discord_id": "1355431370498773022",
+      "processor_id": "empty",
+      "discord_name": "6e6y6s",
+      "check_date": "2026-06-11",
+      "status": "banned",
+      "ban_date": "2026-06-11",
+      "unban_date": "2026-08-11",
+      "punishment": "2 months ban",
+      "video": "https://www.youtube.com/live/QbwWlqN1d_0?si=jeU-F6r38TH9Nut4",
+      "post": "https://discord.com/channels/1306698066622943383/1448983123931955292/1514342491162415146",
+      "notes": "Found: Thread Hijacking and event log clear. Also Shellcode Injection.",
+      "timeline": []
     }
   ]
 }
