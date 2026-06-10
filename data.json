@@ -711,6 +711,22 @@
       "post": "https://discord.com/channels/1306698066622943383/1448983123931955292/1514229198712078387",
       "notes": "Found: netlify.com & bypass new detected cham keller",
       "timeline": []
+    },
+    {
+      "id": "1781098203446",
+      "name": "JINWOO",
+      "discord_id": "884914657318559774",
+      "processor_id": "empty",
+      "discord_name": "nahidurjaman",
+      "check_date": "2026-06-10",
+      "status": "banned",
+      "ban_date": "2026-06-10",
+      "unban_date": "2026-10-10",
+      "punishment": "4 months ban",
+      "video": "",
+      "post": "https://discord.com/channels/1306698066622943383/1448983123931955292/1514227502132891780",
+      "notes": "Found: Internal Cheat & A Loader which have 32 detection & Event Id 104",
+      "timeline": []
     }
   ]
 }
